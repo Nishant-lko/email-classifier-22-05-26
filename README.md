@@ -6,7 +6,7 @@ This repository contains the front-end application, the training notebooks, and 
 
 ---
 
-## ⚠️ Important Note on Excluded Files
+##   Important Note on Excluded Files
 
 Due to **GitHub's file size limitations (100 MB max)** and repository size best practices, the following generated files are excluded from this repository:
 
@@ -19,7 +19,7 @@ Due to **GitHub's file size limitations (100 MB max)** and repository size best 
 
 ---
 
-## 📂 Project Structure
+##   Project Structure
 
 ```text
 email-classifier/
@@ -37,7 +37,7 @@ email-classifier/
 
 ---
 
-## 🚀 Getting Started
+##   Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -72,7 +72,7 @@ Before running the Streamlit application, you need the trained model weights.
 
 ---
 
-## 💻 Running the Streamlit App
+##  Running the Streamlit App
 
 Once the dependencies are installed and the model weights and TF-IDF vectorizer pickles are in the `app/` directory, you can run the Streamlit server:
 
